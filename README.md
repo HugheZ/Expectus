@@ -1,6 +1,9 @@
 # Expectus
 An expectiminimax implementation for Joustus
 
+### Contributors
+* [Mark Brestensky](https://github.com/BrestenskyMW1)
+* [Nathan Stoner](https://github.com/Naxhi)
 
 ## Joustus
 Joustus is a turn-based card game developed by Yacht Club Games as part of the Shovel Knight: King of Cards expansion. During play, each player will take turns placing cards onto the field in empty spaces. Cards can additionally push other cards by their given direction, cascading into other cards in the push direction. So long as no pushed cards have an opposing push arrow, the push is valid. Additionally, 3 gems spawn on the grid at the beginning of a match. While cards cannot be placed onto gems, they can be pushed onto gems. When the grid is full, the player with the most of their color cards on gems will win the game.
